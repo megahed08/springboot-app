@@ -10,5 +10,4 @@ public class Controller {
     public String returnSimple(){
         return "Simple";
     }
-
 }
